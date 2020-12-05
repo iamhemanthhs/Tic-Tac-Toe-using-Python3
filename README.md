@@ -8,4 +8,4 @@ Hemanth Hema Surya(https://github.com/iamhemanthhs)
 
 # Other info
 
-Tools Used: Python 3.6, Pycharm
+Tools Used: Python 3.6
